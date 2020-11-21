@@ -1,0 +1,19 @@
+{
+  "name": "renovate-config",
+  "version": "1.0.0",
+  "description": "Shared renovate config preset for all Clear Treasury repositories",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clear-treasury/renovate-config.git"
+  },
+  "keywords": [
+    "renovate",
+    "config"
+  ],
+  "author": "Clear Treasury",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/clear-treasury/renovate-config/issues"
+  },
+  "homepage": "https://github.com/clear-treasury/renovate-config#readme"
+}
