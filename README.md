@@ -23,7 +23,7 @@ The shared config defines the following options:
 
 - Extends the
   [base config](https://docs.renovatebot.com/presets-config/#configbase)
-- Removes `configDescription` from
+- Removes `header` and `configDescription` from
   [prBodyTemplate](https://docs.renovatebot.com/configuration-options/#prbodytemplate)
   to reduce noise
 

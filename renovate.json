@@ -1,4 +1,4 @@
 {
   "extends": ["config:base"],
-  "prBodyTemplate": "{{{header}}}{{{table}}}{{{notes}}}{{{changelogs}}}{{{controls}}}{{{footer}}}"
+  "prBodyTemplate": "{{{table}}}{{{notes}}}{{{changelogs}}}{{{controls}}}{{{footer}}}"
 }
