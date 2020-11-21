@@ -10,8 +10,8 @@
     "renovate",
     "config"
   ],
-  "author": "Clear Treasury Ltd",
-  "license": "ISC",
+  "author": "Clear Treasury",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/clear-treasury/renovate-config/issues"
   },
